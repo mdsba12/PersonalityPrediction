@@ -1,0 +1,25 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Gradient Boosting Models
+xgboost
+lightgbm
+catboost
+
+# Deep Learning
+tensorflow
+keras
+
+# Utilities
+tqdm
+joblib
+
+# Jupyter / Kaggle Notebook Support
+notebook
+ipython
